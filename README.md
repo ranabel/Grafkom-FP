@@ -1,1 +1,3 @@
 # Grafkom-FP
+
+only assets
